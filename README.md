@@ -1,2 +1,4 @@
 # jogoDino
-Jogo produzido para o Bootcamp da DIO
+## Projeto produzido para BootCamp - Órbi Web Games Developer - DIO
+
+dinoJogopic.png
